@@ -1,5 +1,5 @@
 # Description
-Class implementation of spectral normalization in pytorch framework. And an implementation of linear and CNN GAN's with spectral and batch normalization.
+Class implementation of spectral normalization in pytorch framework. And an implementation of linear and CNN GAN's with spectral and batch normalization. Trained and tested using MNIST dataset.
 
 In this jupyter notebook, I have incrementally built 4 variations of Generative Adverserial Networks (GAN). these are:
 
