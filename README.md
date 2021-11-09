@@ -38,7 +38,7 @@ Or to install the requirements in an existing environment:
 conda install --name myenv --file spec-file.txt
 ```
 
-## Replicating Results
+## Testing And Replicating Results
 
 In order to replicate results of the 4 variations of GAN's you do not need to do more than run the code cells in the order they are in.
 
